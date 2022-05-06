@@ -1,7 +1,7 @@
 # Project Name - AJAY
 ## This project is Ajay and I have implemented the functionalities are
 ### 1.signup
- ####   -create profile
+  ####   -create profile
 ### 2.signin
 ####   -delete profile
 ####   -view profile
