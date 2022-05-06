@@ -9,7 +9,7 @@
 ####   -view all profile
 ####   -testing
 ## Project Structure
-#### -Ajayview Layer
+#### -AjayView Layer
 #####   Ajayview.java
 #### -AjayController Layer
 #####   SortbyName.java
