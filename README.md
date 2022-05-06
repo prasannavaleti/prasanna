@@ -5,8 +5,11 @@
 ### 2.signin
 #### -Edit profile
 #### -delete profile
-#### -
 #### -view profile
 #### -view all
-
+#### -testing
+## Project Structure
+### -Ajayview Layer
+#### *Ajayview.java
+###
 
